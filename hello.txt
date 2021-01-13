@@ -6,4 +6,3 @@ hello hot-fix
 hello ****
 hello -----------
 hello hgj
-hello windows-SSH
